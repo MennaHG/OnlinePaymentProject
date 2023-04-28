@@ -7,9 +7,10 @@ An Online Payment Application that offers the following features using REST Serv
 3- Internet Payment
 4- Donations
 5- Landline Bills
-6- Refund
-7- List All UserTransaction
-8- Accept/Refuse Refunds as Admin
+6- Add Money to Wallet
+7- Refund
+8- List All UserTransaction
+9- Accept/Refuse Refunds as Admin
 
 POSTMAN COLLECTION with all services: https://galactic-astronaut-165347.postman.co/workspace/New-Team-Workspace~02279b61-a7b6-4085-9d2a-5287f71e98d9/collection/25087770-7b88f25c-8828-4537-8816-6b55b7fe2520?action=share&creator=25087770
 
